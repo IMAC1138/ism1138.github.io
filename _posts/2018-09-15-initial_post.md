@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ian MacLaren, Bloh Launch"
+title: "Ian MacLaren, Blog Launch"
 date: 2018-09-15
 ---
 
